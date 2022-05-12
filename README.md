@@ -6,6 +6,8 @@ For educational purposes only, please support the author as this is an amazing p
 Pull requests welcome! 
 
 # Usage
-Simply download the keygen html file, open in your favourite browser and enter your name.
+Simply download the `keygen.html` file, open in your favourite browser and enter your name.
 
 ![screenshot.png](screenshot.png?raw=true)
+
+
