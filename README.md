@@ -8,3 +8,4 @@ Pull requests welcome!
 # Usage
 Simply download the keygen html file, open in your favourite browser and enter your name.
 
+![screenshot.png](screenshot.png?raw=true)
